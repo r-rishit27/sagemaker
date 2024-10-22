@@ -7,6 +7,8 @@ The **SageMaker-Make Anything Bot** is an AI-powered platform designed to stream
 
 Video Demo link : https://youtu.be/Vm9a1Mh63VU
 
+[!Alt text](https://github.com/r-rishit27/sagemaker/blob/main/sagarch.jpg)
+
 ## Features
 
 - **Personalized Step-by-Step Guidance:**  
